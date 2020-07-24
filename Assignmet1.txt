@@ -1,0 +1,40 @@
+﻿Q1) what is your understanding of blockchain?
+
+ blockchain is a concept in which uses basically distributed database and cryptography to create or make records of transactions secure.
+
+
+
+Q2)  what is the core problem blockchain is trying to solve?
+
+ the core problem was blocked is trying to solve his how to make a database a secure database fractions and records are tamper-proof , verifiable and  distributed. the aim of blockchain technology is to come up with a solution for unwanted hacking of systems and wanted Changing of records removing the accountability of doing some action by some person.
+
+
+
+Q3)  what are the features blockchain gives you?
+
+1. Verifiable
+
+2.Tamperproof
+
+3.Unchangable
+
+4. Immutable
+
+
+
+Q4) what all things does a blockchain contains?
+
+ blockchain basically contains the following things, 
+
+ data  itself
+
+hash of the present block current block 
+
+and the has of the previous block
+
+
+
+Q5) how is verifiability of  blockchain attained?
+
+So the verififiability of blockchain for example a blockchain containing different data, changes the data in some block every block and block has the hash and the previous hash of the block which serves as a fingerprint for the block itself, so if data is changed of one block then the hashes will not match in the lockchain breaking the chain and  the other  computers on the network will come to know that some data has been tampered with the blockchain of this particular person so they will provide their complete database replacement for his database,  in this way the whole blockchain can be verified.
+
